@@ -1,0 +1,5 @@
+pylint
+requests
+python-dotenv
+websocket-client==0.56
+-e git+git://github.com/carlosmds/iqoptionapi#egg=iqoptionapi
